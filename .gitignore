@@ -1,9 +1,7 @@
-# Vim Swap files
+# Vim Swap File
 *.swp
 
 *.a
-
-
 
 # Created by https://www.gitignore.io/api/git,linux,macos
 
@@ -31,7 +29,7 @@
 .AppleDouble
 .LSOverride
 
-# Icon must end with two \r
+# Icon must end with two 
 Icon
 
 # Thumbnails
